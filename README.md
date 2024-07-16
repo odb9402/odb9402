@@ -7,8 +7,6 @@
 [![](https://img.shields.io/badge/-Keras-000?style=flat&logo=keras)](https://github.com/odb9402)
 [![](https://img.shields.io/badge/-ScikitLearn-000?style=flat&logo=scikit-learn)](https://github.com/odb9402)
 
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=odb9402&show_icons=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=odb9402&layout=compact&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
 
 [![](https://github-profile-trophy.vercel.app/?username=odb9402&theme=nord&rank=SECRET,SSS,SS,S,AAA,AA,A,B)](https://github.com/odb9402)
